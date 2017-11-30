@@ -2550,7 +2550,7 @@
 			width: 2.5em;
 			height: 2.5em;
 			display: block;
-			
+			backgroun-image: url:("images/pic02.jpg");
 			border-radius: 100%;
 			
 			text-align: center;
